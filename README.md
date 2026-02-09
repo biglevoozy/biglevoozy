@@ -13,4 +13,4 @@ I'm a **Front-End Developer** with 2+ years of experience building clean, functi
 ---
 
 ### 📫 Reach Me
-[Email](tsurtsurica.ilya@gmail.com)
+[Email](mailto:tsurtsurica.ilya@gmail.com)
